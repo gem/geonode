@@ -1,3 +1,10 @@
+geonode (2.0.1+thefinal0gem01) precise; urgency=high
+
+  [ daniviga ]
+  * [cc4560f] Users should not be able to edit other users profile.
+
+ -- Matteo Nastasi (GEM Foundation) <nastasi@openquake.org>  Mon, 05 Jan 2015 13:58:36 +0100
+
 geonode (2.0.1+thefinal0) precise; urgency=high
 
   * Fixed security issue related to document handling..
