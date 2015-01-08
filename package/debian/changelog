@@ -1,3 +1,29 @@
+geonode (2.0.1+thefinal0gem02) precise; urgency=high
+
+  [ Jean Jordaan ]
+  * [992a69] Note docs on geoserver auth; also some typos
+
+  [ Luiz Vital ]
+  * [5f9d4e] Fixes geoserver_rest_proxy view to be able to send non-ascii chars
+
+  [ Simone Dalmasso ]
+  * [8361f4] fix GEONODE_SECURITY_ENABLED in layer upload
+
+  [ Jean Jordaan ]
+  * [a38486] Don't list maps we aren't allowed to see
+
+  [ Daniele Viganò ]
+  * [cc4560] Users should not be able to edit other users profile
+  * [c2abd1] Superuser should edit profile from /admin only
+
+  [ Matteo Nastasi ]
+  * [f03331] debian/changelog updated
+  * [3cce5b] changelog updated
+  * [5ac5cc] checkout reverted
+  * [cd0fff] update version
+
+ -- Matteo Nastasi <nastasi@openquake.org>  Thu, 08 Jan 2015 10:47:23 +0100
+
 geonode (2.0.1+thefinal0) precise; urgency=high
 
   * Fixed security issue related to document handling..
