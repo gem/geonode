@@ -18,7 +18,7 @@
 #########################################################################
 
 import os
-__version__ = (2, 0, 2, 'final', '0gem04')
+__version__ = (2, 0, 2, 'final', '0gem05')
 
 
 class GeoNodeException(Exception):
