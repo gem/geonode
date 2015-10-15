@@ -1,3 +1,10 @@
+geonode (2.0.2+thefinal0gem05) precise; urgency=high
+
+  * [39e15b] minor version updated
+  * [2be559] update version
+
+ -- Matteo Nastasi <nastasi@openquake.org>  Wed, 14 Jan 2015 15:59:00 +0100
+
 geonode (2.0.1+thefinal0gem02) precise; urgency=high
 
   [ Jean Jordaan ]
