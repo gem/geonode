@@ -77,3 +77,4 @@ django-geonode-client==0.0.15
 docker==2.7.0
 ipython==5.5.0
 invoke==0.22.0
+scipy==1.0.1
